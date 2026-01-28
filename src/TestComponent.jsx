@@ -2,7 +2,7 @@
 export default function TestComponent() {
   return (
     <div>
-      Test Component
+      Test Componentc
     </div>
   )
 }
